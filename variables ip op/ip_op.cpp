@@ -2,7 +2,6 @@
 // Sample Input : x=2, y=4 (Both integers)
 // Sample Output : 8
 
-
 #include <iostream>
 using namespace std;
 int main(){
